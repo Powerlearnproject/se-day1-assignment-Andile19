@@ -56,16 +56,29 @@ Importance
 -Customizable with Plugins, vast ecosystem of plugins allows users to tailor the editor to their specific needs, adding features for debugging, code formatting, linting
 -Integrated Git Support, developers can manage their Git repositories
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+-Software security, cyber security and developing safe software is ongoing challange for developers, active and continuous reasearch for implementing secure software to defend from hacking, phising and malware.
+-Limited infrastructure, shortage of IT resources and IT infrastructure Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively
+-Technological advancements The rapid pace of technological advancement places considerable pressure on software engineers. continuous learning practices and using agile methodologies to adapt to emerging trends.
+-Time Constraints Software engineering is a demanding and time-intensive field, effective time management strategies are essential.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+Unit testing: Focuses on testing individual functions or methods within a code module to ensure they work correctly on their own.
+Integration testing: Tests how different modules or components of a system interact with each other to identify issues related to data flow or communication between them.
+System testing: Evaluates the entire software system as a whole, testing its functionality in different scenarios and under various conditions to ensure it meets overall requirements.
+Acceptance testing:
+Involves end users or stakeholders to verify if the system meets their expectations and is ready for deployment, often including user acceptance testing (UAT). 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering is the process of writing instructions to get the best results from an AI model. 
+Prompt engineering helps avoid that by making your questions clear and specific, so the AI understands exactly what you need
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Give me a list of healthy recipes
+
+Give me a list of healthy gluten free, vegan recipes for a person with high blood pressure.
